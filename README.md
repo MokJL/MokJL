@@ -13,3 +13,4 @@ Temp token:
 appID: 95411cf96b954cca90dd876c1abe17fd
 
 https://docs.agora.io/en/live-streaming/start_live_flutter?platform=Flutter#add-dependencies
+https://docs.agora.io/en/live-streaming/start_live_standard_android?platform=Android
