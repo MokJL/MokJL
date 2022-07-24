@@ -19,5 +19,8 @@ Future references
 https://docs.agora.io/en/live-streaming/start_live_flutter?platform=Flutter#add-dependencies
 https://docs.agora.io/en/live-streaming/start_live_standard_android?platform=Android
 
+proguard:
+https://developer.android.com/studio/build/shrink-code#groovy
+
 Second
 appid : 0ce8bf9f28e4451ebbd03a1672cb4baf
