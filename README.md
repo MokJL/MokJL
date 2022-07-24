@@ -20,4 +20,4 @@ https://docs.agora.io/en/live-streaming/start_live_flutter?platform=Flutter#add-
 https://docs.agora.io/en/live-streaming/start_live_standard_android?platform=Android
 
 Second
-appid : cadc4fac99e946509c5852f8785e294f
+appid : 0ce8bf9f28e4451ebbd03a1672cb4baf
